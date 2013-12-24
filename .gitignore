@@ -3,6 +3,8 @@
 # C extensions
 *.so
 
+# data
+data
 # Packages
 *.egg
 *.egg-info
